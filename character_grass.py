@@ -18,4 +18,4 @@ while 1:
     y = y + math.sin(angle) * 100
     angle = angle + 1
     delay(0.1)
-close_canvas()
+close_canvas()  
